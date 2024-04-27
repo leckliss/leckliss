@@ -14,12 +14,20 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leckliss&bg_color=0d1117&color=70a5fd&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
- <a href="mailto:erickcaique150@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC2927?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://www.instagram.com/leckliss/" target="_blank><img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/erick-caique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <br><br>
-</div> 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/leckliss/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/erick-caique"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.youtube.com/channel/UCMLDVQCM71zKoqbvHjIukAQ"><img src="https://github.com/leckliss/leckliss/assets/112137785/657ad657-7628-456e-9928-3ca8533f3c77" width="60"></a>
+    </td>
+</tr>
+</table>
+
  
 ### PRINCIPAIS HABILIDADES
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
