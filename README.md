@@ -4,8 +4,8 @@
 <div align="center">
   <div aligh="center">
   <img src="https://www.freepnglogos.com/uploads/thug-life-png/thug-life-cool-glasses-png-transparent-0.png" width="200" style="background-color:#00e6ff">
- </div>
   <img src="https://komarev.com/ghpvc/?username=leckliss&style=for-the-badge&color=005d67">
+</div>
 
  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?color=00a3b4&size=35&center=true&vCenter=true&width=1000&lines=<Hi!>;<Eu+Sou+Erick+Caique>;<Seja+Bem-Vindo(a)!+:%29>">
