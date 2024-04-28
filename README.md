@@ -2,7 +2,7 @@
 
 <div align="center">
   <div aligh="center">
-  <img src="https://i.pinimg.com/564x/e7/a3/54/e7a35435f997951ab8af517d1f2ca20d.jpg" width="180" style="background-color:#00e6ff">
+  <img src="https://i.pinimg.com/564x/e7/a3/54/e7a35435f997951ab8af517d1f2ca20d.jpg" width="150" style="background-color:#00e6ff">
 </div>
 <img src="https://komarev.com/ghpvc/?username=leckliss&style=for-the-badge&color=005d67">
 
