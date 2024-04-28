@@ -3,7 +3,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leckliss&style=for-the-badge&color=005d67">
   <br><br>
-  
+
+  <div>
+  <img src="https://www.freepnglogos.com/uploads/thug-life-png/thug-life-cool-glasses-png-transparent-0.png" width="200">
+ </div>
+ <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?color=00a3b4&size=35&center=true&vCenter=true&width=1000&lines=<Hi!>;<Eu+Sou+Erick+Caique>;<Seja+Bem-Vindo(a)!+:%29>">
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leckliss&show_icons=true&count_private=true&hide_border=true&title_color=00a3b4&icon_color=005d67&text_color=00a3b4&bg_color=0d1117" alt="Erick Caique Santos Souza github stats" /> 
