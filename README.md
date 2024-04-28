@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3b4&height=120&section=header"/>
 
-<br><br>
+<br>
 <div align="center">
   <div aligh="center" background-color="00e6ff">
   <img src="https://www.freepnglogos.com/uploads/thug-life-png/thug-life-cool-glasses-png-transparent-0.png" width="200">
