@@ -32,7 +32,7 @@
 
 </br>
 
-<h2 align='center'><i>Linguagens e Ferramentas Favoritas</i></h2>
+<h2 align='center'><i>Fav 💕 Languages and Tools</i></h2>
  
 <table width="100">
 <tr>
