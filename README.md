@@ -13,13 +13,13 @@
  <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/leckliss/" target=_blank><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://www.instagram.com/leckliss/"  target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/erick-caique" target=_blank><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://www.linkedin.com/in/erick-caique"  target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.youtube.com/channel/UCMLDVQCM71zKoqbvHjIukAQ" target=_blank><img src="https://github.com/leckliss/leckliss/assets/112137785/657ad657-7628-456e-9928-3ca8533f3c77" width="60"></a>
+        <a href="https://www.youtube.com/channel/UCMLDVQCM71zKoqbvHjIukAQ"  target="_blank"><img src="https://github.com/leckliss/leckliss/assets/112137785/657ad657-7628-456e-9928-3ca8533f3c77" width="60"></a>
     </td>
 </tr>
 </table>
