@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=leckliss&style=for-the-badge&color=005d67">
   <br><br>
 
-  <div>
+  <div aligh="center" color="00e6ff">
   <img src="https://www.freepnglogos.com/uploads/thug-life-png/thug-life-cool-glasses-png-transparent-0.png" width="200">
  </div>
  <br><br>
