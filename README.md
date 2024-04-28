@@ -4,15 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=leckliss&style=for-the-badge&color=005d67">
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=<Hi!>;<Eu+Sou+Erick+Caique>;<Seja+Bem-Vindo(a)!+:%29>">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00a3b4&size=35&center=true&vCenter=true&width=1000&lines=<Hi!>;<Eu+Sou+Erick+Caique>;<Seja+Bem-Vindo(a)!+:%29>">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leckliss&show_icons=true&count_private=true&hide_border=true&title_color=0f4cd1&icon_color=0f4cd1&text_color=70a5fd&bg_color=00a3b4" alt="Erick Caique Santos Souza github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leckliss&layout=compact&hide_border=true&title_color=0f4cd1&text_color=70a5fd&bg_color=00a3b4" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leckliss&show_icons=true&count_private=true&hide_border=true&title_color=00a3b4&icon_color=005d67&text_color=00a3b4&bg_color=0d1117" alt="Erick Caique Santos Souza github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leckliss&layout=compact&hide_border=true&title_color=005d67&text_color=00a3b4&bg_color=0d1117" />
   <br><br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leckliss&bg_color=00a3b4&color=70a5fd&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leckliss&bg_color=0d1117&color=00a3b4&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table width="100" align='center'>
 <tr>
