@@ -12,6 +12,7 @@
 
  <table width="100" align='center'>
 <tr>
+  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
     <td align='center' width="60">
         <a href="https://www.instagram.com/leckliss/"  target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
@@ -24,7 +25,6 @@
 </tr>
 </table>
 
-  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leckliss&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=005d67&text_color=00a3b4&bg_color=0d1117" alt="Erick Caique Santos Souza github stats" /> 
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leckliss&layout=compact&hide_border=true&title_color=ffffff&text_color=00a3b4&bg_color=0d1117" />
