@@ -56,15 +56,5 @@
 </table>
 <br>
 
-<h2 align='center'><i>I love games too</i></h2>
-<table width="100">
-<tr>
-     <td align='center' width="190">
-       <a href="https://steamcommunity.com/id/lecklis/"></a>
-        <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">
-    </td>
-</tr>
-</table>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3b4&height=120&section=footer"/>
