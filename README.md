@@ -12,7 +12,6 @@
 
  <table width="100" align='center'>
 <tr>
-  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
     <td align='center' width="60">
         <a href="https://www.instagram.com/leckliss/"  target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
