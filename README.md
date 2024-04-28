@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <div aligh="center" class="background:00e6ff">
+  <div aligh="center" style="background: #00e6ff">
   <img src="https://www.freepnglogos.com/uploads/thug-life-png/thug-life-cool-glasses-png-transparent-0.png" width="200">
  </div>
   <img src="https://komarev.com/ghpvc/?username=leckliss&style=for-the-badge&color=005d67">
