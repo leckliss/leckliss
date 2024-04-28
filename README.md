@@ -38,7 +38,7 @@
 <table width="100">
 <tr>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
     </td>
     <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
@@ -54,6 +54,17 @@
     </td>
 </tr>
 </table>
+<br>
+
+<h2 align='center'><i>I love games too</i></h2>
+<table width="100">
+<tr>
+     <td align='center' width="190">
+       <a href="https://steamcommunity.com/id/lecklis/"></a>
+        <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg">
+    </td>
+</tr>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3b4&height=120&section=footer"/>
