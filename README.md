@@ -22,15 +22,7 @@
 </tr>
 </table>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leckliss&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=005d67&text_color=00a3b4&bg_color=0d1117" alt="Erick Caique Santos Souza github stats" /> 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leckliss&layout=compact&hide_border=true&title_color=ffffff&text_color=00a3b4&bg_color=0d1117" />
-  <br><br>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leckliss&bg_color=0d1117&color=ffffff&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</br>
+<br>
 
 <h2 align='center'><i>Fav 💕 Languages and Tools</i></h2>
  
@@ -54,6 +46,18 @@
 </tr>
 </table>
 <br>
+
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leckliss&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=005d67&text_color=00a3b4&bg_color=0d1117" alt="Erick Caique Santos Souza github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leckliss&layout=compact&hide_border=true&title_color=ffffff&text_color=00a3b4&bg_color=0d1117" />
+  <br><br>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leckliss&bg_color=0d1117&color=ffffff&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a3b4&height=120&section=footer"/>
